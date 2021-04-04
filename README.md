@@ -11,18 +11,18 @@ Class401-Lab6
 
   
 - **Tests that assert your features:**
-    - [GitHub Action](https://github.com/Samer-Alnajjar/api-server/actions)
+    - [GitHub Action](https://github.com/Samer-Alnajjar/basic-auth/actions)
     - Coverage
 
 ![Coverage](coverage.png)
 
 - **UML Diagram**
 
-  ![UML-Diagram](UML_Diagram.png)
+  ![UML-Diagram](UMLDiagram.png)
 
 - [Pull Request](https://github.com/Samer-Alnajjar/api-server/pull/4)
 
-- [Heroku-deployment](https://samer-api-server.herokuapp.com/)
+- [Heroku-deployment](https://samer-basic-auth.herokuapp.com/)
 
 - How do I install the app or library?
   1. Clone the repo from git hub, by run the following command "git clone -repo-".
