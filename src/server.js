@@ -26,7 +26,7 @@ app.use(express.urlencoded({ extended: true }));
 
 // Routes
 
-app.use(userRouter);
+app.use("/api/v1", userRouter);
 
 /**
  * This function responsible for the error handler

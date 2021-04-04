@@ -7,7 +7,7 @@
     "start": "node index.js",
     "watch": "nodemon app.js",
     "test-watch": "jest --watchAll",
-    "test": "jest"
+    "test": "jest --coverage --verbose"
   },
   "jest": {
     "testEnvironment": "node"
@@ -23,5 +23,8 @@
     "express": "^4.17.1",
     "jest": "^26.6.3",
     "mongoose": "^5.10.15"
+  },
+  "devDependencies": {
+    "@code-fellows/supergoose": "^1.0.11"
   }
 }
