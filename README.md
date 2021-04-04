@@ -20,7 +20,7 @@ Class401-Lab6
 
   ![UML-Diagram](UMLDiagram.png)
 
-- [Pull Request](https://github.com/Samer-Alnajjar/api-server/pull/4)
+- [Pull Request](https://github.com/Samer-Alnajjar/basic-auth/pull/2)
 
 - [Heroku-deployment](https://samer-basic-auth.herokuapp.com/)
 
